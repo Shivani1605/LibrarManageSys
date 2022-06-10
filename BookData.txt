@@ -1,0 +1,7 @@
+1,Python crash course,Eric Matthes,True
+2,Learn python,Zed A.Shaw,True
+3,C#,Jon Skeet,True
+4,SQL,Ben Forta,True
+5,C++,Steve Oualline,True
+6,Math,R.D.Sharma,True
+7,Math,ASDFGH,True
